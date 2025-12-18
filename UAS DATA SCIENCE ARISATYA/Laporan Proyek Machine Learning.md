@@ -14,7 +14,7 @@
 **Dosen Pengampu:** Gus Nanang  
 **Tahun Akademik:** 2025/Semester 5  
 **Link GitHub Repository:** [https://github.com/ari2b/UAS-WINE-QUALITY]  
-**Link Video Pembahasan:** [Isi URL Video Penjelasan Anda]
+**Link Video Pembahasan:** [https://drive.google.com/drive/u/0/folders/1fMAUyLtZCl64iZX9KYtwHPVfhEYGo8VH]
 
 ---
 
@@ -738,3 +738,4 @@ jupyter notebook notebooks/ML_Project.ipynb
 - Pandas: https://pandas.pydata.org/docs/
 
 - Matplotlib
+
