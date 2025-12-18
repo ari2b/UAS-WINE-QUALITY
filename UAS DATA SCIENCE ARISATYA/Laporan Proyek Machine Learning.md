@@ -13,7 +13,7 @@
 **Mata Kuliah:** Data Science  
 **Dosen Pengampu:** Gus Nanang  
 **Tahun Akademik:** 2025/Semester 5  
-**Link GitHub Repository:** [Isi URL GitHub Repository Anda]  
+**Link GitHub Repository:** [https://github.com/ari2b/UAS-WINE-QUALITY]  
 **Link Video Pembahasan:** [Isi URL Video Penjelasan Anda]
 
 ---
@@ -736,4 +736,5 @@ jupyter notebook notebooks/ML_Project.ipynb
 - XGBoost: https://xgboost.readthedocs.io/
 - TensorFlow/Keras: https://www.tensorflow.org/api_docs
 - Pandas: https://pandas.pydata.org/docs/
+
 - Matplotlib
